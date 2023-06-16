@@ -1,0 +1,26 @@
+{
+  "name": "google-spreadsheets-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonmibz/google-spreadsheets-apis.git"
+  },
+  "keywords": [
+    "googleapis"
+  ],
+  "author": "sonmibz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonmibz/google-spreadsheets-apis/issues"
+  },
+  "homepage": "https://github.com/sonmibz/google-spreadsheets-apis#readme",
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "typescript": "^5.1.3"
+  }
+}
